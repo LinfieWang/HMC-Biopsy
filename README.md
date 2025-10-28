@@ -11,7 +11,7 @@ Ultrasound (US) imaging has gained widespread application in guiding biopsy proc
 ---
 
 ## 🎥 Video Demonstration
-https://github.com/user-attachments/assets/c8475688-4b8e-4b7a-bbff-b3d4109a2c2c
+https://github.com/user-attachments/assets/366305a5-b2ff-4045-a676-ee90c1fd0454
 <!-- 直接嵌入视频，支持 mp4/webm -->
 <video width="800" controls autoplay loop muted style="border: 1px solid #e1e4e8; border-radius: 8px; display: block; margin: 0 auto;">
   <source src="videos/demo.mp4" type="video/mp4">
@@ -19,7 +19,7 @@ https://github.com/user-attachments/assets/c8475688-4b8e-4b7a-bbff-b3d4109a2c2c
 </video>
 
 <p align="center">
-  <em>Video: An Ultrasound-Guided Tumor Puncture Framework with Vascular Avoidance for Human-Machine Collaborative Biopsy .</em>
+  <em>Video: An Ultrasound-Guided Tumor Puncture Framework with Vascular Avoidance for Human-Machine Collaborative Biopsy</em>
 </p>
 
 
