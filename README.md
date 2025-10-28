@@ -1,6 +1,6 @@
 # An Ultrasound-Guided Tumor Puncture Framework with Vascular Avoidance for Human-Machine Collaborative Biopsy
 
-> 🔒 **Code will be released upon paper acceptance.**
+> 🔒 **The source code will be uploaded after the paper is accepted.**
 
 ---
 
@@ -28,13 +28,19 @@ Ultrasound (US) imaging has gained widespread application in guiding biopsy proc
 
 ![HMC Biopsy Framework](fig1.png)
 
-**Figure 1**: The proposed HMC biopsy framework consists of:  
-(1) Real-time ultrasound guidance,  
-(2) Vascular structure detection and risk zone estimation,  
-(3) Dynamic path planning with obstacle avoidance,  
-(4) Shared control interface with haptic and visual feedback,  
-(5) Surgeon-in-the-loop decision making.
+**Figure 1**: Schematic of the framework for the human-robot collaborative tumor puncture system with integrated vascular avoidance, designed for remote, US-guided collaborative surgery. Section I: The master-side control layer, encompassing the hardware and software components of the control station and the system's communication architecture. Section II: The slave-side execution layer, which includes the puncture module control and the vessel and tumor visualization module
 
 ---
 
-## 📁 Repository Structure
+## 📚 Citation
+
+If you find this work useful, please cite:
+
+```bibtex
+@article{wang2025ultrasound,
+  title={An Ultrasound-Guided Tumor Puncture Framework with Vascular Avoidance for Human-Machine Collaborative Biopsy},
+  author={[8].	Xinjie Ao, Lin Wang, Zhiqiang Zhu, Dongyang Li, Linfei Wang*, and Yonghang Tai},
+  journal={Submitted to IEEE TIM},
+  year={2025}
+}
+
