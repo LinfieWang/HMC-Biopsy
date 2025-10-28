@@ -26,7 +26,7 @@ Ultrasound (US) imaging has gained widespread application in guiding biopsy proc
 
 ## 🖼️ Framework Overview
 
-![HMC Biopsy Framework](figures/framework.png)
+![HMC Biopsy Framework](fig1.png)
 
 **Figure 1**: The proposed HMC biopsy framework consists of:  
 (1) Real-time ultrasound guidance,  
