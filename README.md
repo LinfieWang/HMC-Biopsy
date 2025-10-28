@@ -19,11 +19,9 @@ https://github.com/user-attachments/assets/c8475688-4b8e-4b7a-bbff-b3d4109a2c2c
 </video>
 
 <p align="center">
-  <em>Video: Real-time vascular avoidance during ultrasound-guided tumor puncture. The system provides haptic and visual feedback to guide the surgeon.</em>
+  <em>Video: An Ultrasound-Guided Tumor Puncture Framework with Vascular Avoidance for Human-Machine Collaborative Biopsy .</em>
 </p>
 
-
-👉 [Download full video (MP4)](videos/demo.mp4)
 
 ---
 
