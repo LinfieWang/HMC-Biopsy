@@ -12,13 +12,16 @@ Ultrasound (US) imaging has gained widespread application in guiding biopsy proc
 
 ## 🎥 Video Demonstration
 
-<tool_call>
-{"name": "search_image", "arguments": {"prompt": "Demo Video"}}
-</tool_call>
+<!-- 直接嵌入视频，支持 mp4/webm -->
+<video width="800" controls autoplay loop muted style="border: 1px solid #e1e4e8; border-radius: 8px; display: block; margin: 0 auto;">
+  <source src="videos/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 <p align="center">
-  <em>Video: Real-time vascular avoidance during ultrasound-guided tumor puncture. (Full video available for download)</em>
+  <em>Video: Real-time vascular avoidance during ultrasound-guided tumor puncture. The system provides haptic and visual feedback to guide the surgeon.</em>
 </p>
+
 
 👉 [Download full video (MP4)](videos/demo.mp4)
 
