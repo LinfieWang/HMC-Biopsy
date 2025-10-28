@@ -39,7 +39,7 @@ If you find this work useful, please cite:
 ```bibtex
 @article{wang2025ultrasound,
   title={An Ultrasound-Guided Tumor Puncture Framework with Vascular Avoidance for Human-Machine Collaborative Biopsy},
-  author={[8].	Xinjie Ao, Lin Wang, Zhiqiang Zhu, Dongyang Li, Linfei Wang*, and Yonghang Tai},
+  author={[Xinjie Ao, Lin Wang, Zhiqiang Zhu, Dongyang Li, Linfei Wang*, and Yonghang Tai},
   journal={Submitted to IEEE TIM},
   year={2025}
 }
