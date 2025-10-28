@@ -1,6 +1,6 @@
 # An Ultrasound-Guided Tumor Puncture Framework with Vascular Avoidance for Human-Machine Collaborative Biopsy
 
-> 🔒 **The source code will be uploaded after the paper is accepted.**
+> 🔒 **The source code will be available after the paper is accepted.**
 
 ---
 
