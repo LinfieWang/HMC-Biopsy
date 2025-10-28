@@ -24,7 +24,7 @@ Ultrasound (US) imaging has gained widespread application in guiding biopsy proc
 
 
 👉 [Download full video (MP4)](videos/demo.mp4)
-
+https://github.com/user-attachments/assets/c8475688-4b8e-4b7a-bbff-b3d4109a2c2c
 ---
 
 ## 🖼️ Framework Overview
